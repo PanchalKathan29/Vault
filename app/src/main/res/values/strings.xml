@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Vault</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_insights">Insights</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_profile">Profile</string>
+    <string name="cd_notifications">Notifications</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_select_category">Select category</string>
+    <string name="cd_selected">Selected</string>
+
+    <!-- Date labels (shared) -->
+    <string name="date_today">Today</string>
+    <string name="date_yesterday">Yesterday</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Good morning, Alex</string>
+    <string name="home_title">Your Financial Pulse</string>
+    <string name="home_current_balance">CURRENT BALANCE</string>
+    <string name="home_currency_symbol">$</string>
+    <string name="home_total_income">Total Income</string>
+    <string name="home_total_expenses">Total Expenses</string>
+    <string name="home_welcome_title">Welcome to your new financial companion!</string>
+    <string name="home_welcome_subtitle">Start your journey to financial freedom today.</string>
+    <string name="home_empty_title">No transactions yet</string>
+    <string name="home_empty_subtitle">Start tracking your expenses to see them here.</string>
+    <string name="home_streak_title">No-Spend Streak</string>
+    <string name="home_streak_subtitle">Keep it up! You\'re saving great this week.</string>
+    <string name="home_streak_days">5 Days</string>
+    <string name="home_activity_7day">7-DAY ACTIVITY</string>
+    <string name="home_recent_transactions">Recent Transactions</string>
+    <string name="home_see_all">See all</string>
+    <string name="home_transaction_today_time">Today, %1$s</string>
+    <string name="home_transaction_yesterday_time">Yesterday, %1$s</string>
+
+    <!-- New transaction -->
+    <string name="add_screen_title">New Transaction</string>
+    <string name="add_save">Save</string>
+    <string name="add_expense">Expense</string>
+    <string name="add_income">Income</string>
+    <string name="add_amount_label">AMOUNT</string>
+    <string name="add_category_label">CATEGORY</string>
+    <string name="add_select_category">Select Category</string>
+    <string name="add_date_label">DATE</string>
+    <string name="add_recurring_label">RECURRING</string>
+    <string name="add_recurring_never">Never</string>
+    <string name="add_notes_label">NOTES</string>
+    <string name="add_notes_placeholder">Add a note…</string>
+    <string name="add_done">Done</string>
+    <string name="add_ok">OK</string>
+    <string name="add_cancel">Cancel</string>
+    <string name="add_snackbar_select_category">Select a category</string>
+    <string name="add_snackbar_enter_amount">Enter an amount</string>
+    <string name="add_snackbar_recurring_soon">Recurring rules coming soon</string>
+
+    <!-- Insights -->
+    <string name="insights_title">Monthly Insights</string>
+    <string name="insights_subtitle">Spending by category this month</string>
+    <string name="insights_total_spent_label">TOTAL SPENT</string>
+    <string name="insights_empty_chart">No expenses yet — add a transaction to see your chart.</string>
+    <string name="insights_by_category">BY CATEGORY</string>
+    <string name="insights_percent_of_spending">%1$d%% of spending</string>
+</resources>
